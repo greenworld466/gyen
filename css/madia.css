@@ -1,0 +1,390 @@
+/* Large devices  */
+@media (max-width: 1199.98px) {
+  ...;
+}
+
+/* Medium devices */
+@media (max-width: 991.98px) {
+  .navbar-toggler i {
+    color: #2d3e50;
+    font-size: 30px;
+  }
+  .navbar-nav {
+    text-align: center;
+    padding: 10px 0;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-bottom: 5px;
+  }
+  .get-start {
+    margin-left: 38%;
+  }
+  .navbar {
+    margin-top: 65px;
+    position: static;
+  }
+  #banner .pre {
+    height: 40px;
+    width: 40px;
+
+    font-size: 15px;
+    left: 0;
+    line-height: 40px;
+  }
+  #banner .next {
+    height: 40px;
+    width: 40px;
+    right: 0;
+    font-size: 15px;
+
+    line-height: 40px;
+  }
+  .banner-text p {
+    font-size: 13px;
+
+    padding-bottom: 85px;
+  }
+  .banner-text h3 {
+    font-size: 40px;
+
+    padding-bottom: 0px;
+  }
+  .instagram-overly {
+    width: 71%;
+  }
+  .about-item p {
+    margin-top: 20px;
+  }
+  .about-item p {
+    padding-bottom: 0;
+    margin-bottom: 30px;
+  }
+  .counter-item h3 {
+    margin-top: 20px;
+  }
+  .counter-item::after {
+    left: 41%;
+  }
+  .counter-item::before {
+    left: 53%;
+  }
+  #course .slick-list {
+    height: 1100px;
+  }
+  #course .course_pre {
+    left: -30px;
+  }
+  #course .course_next {
+    right: -30px;
+  }
+
+  .calenter img {
+    padding-bottom: 20px;
+  }
+  .date {
+    right: 76px;
+  }
+  #testimonial .testi_pre {
+    left: -30px;
+    top: 45%;
+    z-index: 999;
+  }
+  #testimonial .testi_next {
+    left: -30px;
+  }
+  .teacher-img i {
+    margin-right: 20px;
+  }
+  .teacher-item p {
+    padding-bottom: 15px;
+  }
+  .teacher-item::before {
+    left: 55%;
+  }
+  .teacher-item::after {
+    left: 37%;
+  }
+  .contact-item h3 {
+    padding-top: 20px;
+  }
+  .contact-item ul li {
+    padding-bottom: 5px;
+  }
+  .instagram-item {
+    width: 46%;
+    left: 41px;
+  }
+  .instagram-overly {
+    width: 74%;
+  }
+}
+
+/* Small devices  */
+@media (max-width: 767.98px) {
+  #testimonial .testi_pre {
+    left: -33px;
+    z-index: 999;
+  }
+  #testimonial .testi_next {
+    left: -33px;
+  }
+  .calenter img {
+    padding-bottom: 20px;
+  }
+  .navbar-toggler i {
+    color: #2d3e50;
+    font-size: 30px;
+  }
+  .navbar-nav {
+    text-align: center;
+    padding: 10px 0;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-bottom: 5px;
+  }
+  .get-start {
+    margin-left: 180px;
+  }
+  .navbar {
+    margin-top: 65px;
+    position: static;
+  }
+  .banner-text a {
+    margin-left: 60px;
+
+    margin-top: 20px;
+  }
+  .banner-text h3 {
+    font-size: 40px;
+  }
+  #banner {
+    padding-top: 90px;
+  }
+  #banner .pre {
+    height: 40px;
+    width: 40px;
+
+    font-size: 15px;
+
+    line-height: 40px;
+  }
+  #banner .next {
+    height: 40px;
+    width: 40px;
+
+    font-size: 15px;
+
+    line-height: 40px;
+  }
+  .about-item p {
+    margin-top: 20px;
+  }
+  .about-item p {
+    padding-bottom: 0;
+    margin-bottom: 30px;
+  }
+  .counter-item h3 {
+    margin-top: 20px;
+  }
+  .counter-item::after {
+    left: 41%;
+  }
+  .counter-item::before {
+    left: 53%;
+  }
+  #course .slick-list {
+    height: 1000px;
+  }
+  .event-itemtx a {
+    margin-top: 40px;
+    margin-left: -57%;
+  }
+  .date {
+    right: 0;
+  }
+
+  .testimonial-rate i {
+    margin-bottom: 20px;
+  }
+  .teacher-item p {
+    padding-bottom: 20px;
+  }
+  .blog-icon {
+    top: 10px;
+  }
+  .overly-text h5 {
+    font-size: 9px;
+
+    margin-left: 7px;
+  }
+  .overly-text p {
+    font-size: 8px;
+
+    margin-left: 7px;
+  }
+  .blog-icon {
+    position: absolute;
+    right: 0;
+
+    width: 64px;
+  }
+  .blog-icon i {
+    font-size: 10px;
+    line-height: 30px;
+
+    height: 30px;
+    width: 30px;
+  }
+  .overly-text2 h5 {
+    font-size: 10px;
+  }
+  .overly-text2 p {
+    font-size: 10px;
+
+    margin-left: 7px;
+  }
+  .contact-item h3 {
+    padding-top: 20px;
+  }
+  .contact-item ul li {
+    padding-bottom: 5px;
+  }
+  .instagram-item {
+    width: 44%;
+    left: 34px;
+  }
+  .instagram-overly {
+    width: 100%;
+  }
+}
+
+/* Extra small  */
+@media (max-width: 575.98px) {
+  .navbar-toggler i {
+    color: #2d3e50;
+    font-size: 30px;
+  }
+  .navbar-nav {
+    text-align: center;
+    padding: 10px 0;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-bottom: 5px;
+  }
+  .get-start {
+    margin-left: 60px;
+  }
+  .navbar {
+    margin-top: 65px;
+    position: static;
+  }
+  .banner-text a {
+    margin-left: 60px;
+
+    margin-top: 20px;
+  }
+  .banner-text h3 {
+    font-size: 40px;
+  }
+  #banner {
+    padding-top: 50px;
+  }
+  #banner .pre {
+    height: 40px;
+    width: 40px;
+
+    font-size: 15px;
+
+    line-height: 40px;
+  }
+  #banner .next {
+    height: 40px;
+    width: 40px;
+
+    font-size: 15px;
+
+    line-height: 40px;
+  }
+  .about-item p {
+    margin-top: 20px;
+  }
+  .about-item p {
+    padding-bottom: 0;
+    margin-bottom: 30px;
+  }
+  .about-item a {
+    padding: 15px;
+    margin-right: 5px;
+  }
+  .counter-item h3 {
+    margin-top: 20px;
+  }
+  .counter-item::after {
+    left: 100px;
+  }
+  .counter-item::before {
+    left: 160px;
+  }
+  #course .slick-list {
+    height: 1200px;
+  }
+  #testimonial .testi_pre {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    font-size: 15px;
+
+    line-height: 40px;
+
+    left: -15px;
+    top: 40%;
+  }
+  #testimonial .testi_next {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    font-size: 15px;
+
+    line-height: 40px;
+
+    left: -15px;
+    top: 22%;
+  }
+  .calenter img {
+    padding-bottom: 20px;
+  }
+  .event-itemtx a {
+    margin-top: 50px;
+  }
+  .testimonial-rate i {
+    margin-bottom: 20px;
+  }
+  .teacher-item::before {
+    left: 160px;
+  }
+  .teacher-item::after {
+    left: 100px;
+  }
+  .overly-text span {
+    margin-left: 40px;
+
+    position: relative;
+    left: -37px;
+    top: 6px;
+  }
+  .contact-item h3 {
+    padding-top: 20px;
+  }
+  .contact-item ul li {
+    padding-bottom: 5px;
+  }
+  .date {
+    left: 65%;
+  }
+  .blog-item {
+    top: 20px;
+  }
+  .instagram-item {
+    width: 100%;
+  }
+}
